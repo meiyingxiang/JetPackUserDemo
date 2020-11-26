@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="numberTv">0</string>
+    <string name="addBtn">加</string>
+    <string name="reduceBtn">减</string>
+</resources>
